@@ -1,0 +1,59 @@
+body{
+	font-family: Arial;
+	margin: 0 0;
+	background-image: url("background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#box{
+	margin: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding: 25px;
+	width: 970px;
+	background-color: rgba(255, 255, 255, 0.6);
+}
+#baner{
+	width: 970px;
+	height: 200px;
+	background-image: url("baner.jpg");
+	background-repeat: no-repeat;
+	background-size: 970px, 200px;
+	
+}
+#baner_text{
+	height: 200px;
+	line-height: 200px;
+	text-align: center;
+	font-size: 20pt;
+	color: rgb(255,255,255);
+	background-color:rgb(255,0,0,0.4);
+}
+#page{
+	
+	padding: 25px;
+}
+.head_title{
+	font-size: 32pt;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.second_title{
+	font-size: 22pt;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.image_in_box{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+.page_text{
+	text-align: left;
+	font-size: 14pt;
+	margin: 0px 0xp 10px 0px;
+}
